@@ -1,0 +1,15 @@
+{
+  "name": "vite-rollup-plugin-virtual",
+  "description": "Repro for an issue in Vite",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Matias Capeletto",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@rollup/plugin-virtual": "2.0.3",
+    "vite": "^2.0.0-beta.19"
+  }
+}
