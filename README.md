@@ -10,8 +10,4 @@ yarn
 yarn dev
 ```
 
-Same issue while building
-```
-yarn
-yarn build
-```
+Build works well
